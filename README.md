@@ -6,7 +6,7 @@ An intelligent, context-aware HR conversational assistant that runs on Telegram.
 
 Below is the complete architectural layout of the HR Bot:
 
-![HR Bot Implemented Architecture](architecture.png)
+![HR Bot Implemented Architecture](architecture_v2.png)
 
 The application is structured into four main layers:
 1. **Client / Interface Layer**: Handles communication with the Telegram API (`bot/telegram_bot.py`).
