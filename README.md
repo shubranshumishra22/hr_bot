@@ -1,4 +1,4 @@
-# HR Agent & RAG Bot (Prototype)
+# HR Agent & RAG Bot
 
 An intelligent, context-aware HR conversational assistant that runs on Telegram. It uses LangChain to dynamically route user requests to SQL databases, vector document databases (RAG), or transaction execution pipelines.
 
